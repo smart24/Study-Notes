@@ -51,7 +51,7 @@ smallerHeight's value is 18
 由于 if 条件控制作为表达式之后，其作用和 Java 中的三目运算符作用相同，所以，Kotlin 中没有三目运算符：  
 
 ```kotlin
-// 如果你这样写，编译器会报错
+// 在 Kotlin 中，如果你这样写，编译器会报错
 var anotherSmallerHeight = cupHeight < bottleHeight ? cupHeight : bottleHeight
 ```
 
