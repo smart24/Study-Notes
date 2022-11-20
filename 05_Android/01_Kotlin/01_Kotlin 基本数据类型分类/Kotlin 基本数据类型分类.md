@@ -184,7 +184,7 @@ Double oneThousand = oneHundred.doubleValue();
 Double oneThousand = Double.valueOf(oneHundred);
 ```
 
-在 Kotlin 中，这意味着在不进行显式转换的情况下，我们是不能把 Byte 数值类型的值赋给一个 Int 数值类型的变量的：  
+在 Kotlin 中，由于所有的数值类型都是对象，因此，这就意味着在不进行显式转换的情况下，我们是不能把 Byte 数值类型的值赋给一个 Int 数值类型的变量的：  
 
 ```kotlin
 var screenHeight: Int = 1920
