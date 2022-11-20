@@ -170,6 +170,20 @@ int intValue = byteValue;
 double doubleValue = intValue;
 ```
 
+但 Java 中的隐式转换也只存在于数值类型数据未转型前，一旦 Java 中的数值类型数据转换为包装类之后，隐式类型转换也消失了，即如果想把包装类 Integer 类型的变量赋值给包装类 Double 类型的变量，依然需要强制类型转换，否则会报错：  
+
+```java
+// 报错
+Integer oneHundred = 100;
+Double oneThousand = oneHundred;
+
+// 需要下面这样写
+Integer oneHundred = 100;
+Double oneThousand = oneHundred.doubleValue();
+或
+Double oneThousand = Double.valueOf(oneHundred);
+```
+
 在 Kotlin 中，这意味着在不进行显式转换的情况下，我们是不能把 Byte 数值类型的值赋给一个 Int 数值类型的变量的：  
 
 ```kotlin
