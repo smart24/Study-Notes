@@ -153,6 +153,16 @@ any's type is Int
 #### 2.5 when 条件控制替换 if 条件控制  
 
 ```kotlin
+// 原 if 条件控制
+var number: Int = 5
+if (number < 0) {
+    println("number is smaller than 0")
+} else if (number == 0) {
+    println("number is equals to 0")
+} else {
+    println("number is bigger than 0")
+}
+
 // when 条件控制替换 if 条件控制
 var number: Int = 5
 when {
