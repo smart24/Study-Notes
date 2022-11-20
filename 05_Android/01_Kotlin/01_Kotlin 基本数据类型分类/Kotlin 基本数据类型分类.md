@@ -1,4 +1,4 @@
-![Kotlin 基本数据类型分类](http://m.qpic.cn/psc?/V10aaGcc22Xzag/ruAMsa53pVQWN7FLK88i5pJ7beSaYpWMrIPtxgy0X5RpBZ0eN7ccxfSldsWNLV0kXun9WIdYQKZKPLwTLxGkacBfNX*9YR5x9NQctBSfyco!/b&bo=VAY4BAAAAAADB0w!&rf=viewer_4)
+![Kotlin 基本数据类型分类](http://m.qpic.cn/psc?/V10aaGcc22Xzag/ruAMsa53pVQWN7FLK88i5kui45.WSeUlijZ.FJiZlcFCI*ixEZS2QkqAow98O0v94P1ZEVlNQGbozHLW*xBKTsscTXQQAc4zbNhYSYqMcbQ!/b&bo=LAY4BAAAAAADBzQ!&rf=viewer_4)
 
 ## 一、概述
 
