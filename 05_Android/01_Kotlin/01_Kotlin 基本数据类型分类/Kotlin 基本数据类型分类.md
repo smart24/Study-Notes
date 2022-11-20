@@ -442,7 +442,7 @@ array.set(0, 999) // 等价于 array[0] = 999
 println(array[0])
 
 // 获取指定索引位置的值
-println(array.get(0)) // 等价于 println(array.get(0))
+println(array.get(0)) // 等价于 println(array[0])
 
 // 执行结果
 Array array's size is 3
