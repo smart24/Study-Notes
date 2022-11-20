@@ -39,7 +39,7 @@ for (i in intArray) {
 }
 ```
 
-Kotlin 中的 for 循环和 Java 中的 for-each 很像？  
+Kotlin 中的 for 循环是不是和 Java 中的 for-each 很像？  
 
 顺便说一句，如果你对 Kotlin 中的数组不是很了解，可以看这里 👉 [Kotlin 基本数据类型分类](https://github.com/smart24/Study-Notes/blob/main/05_Android/01_Kotlin/01_Kotlin%20%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%88%86%E7%B1%BB/Kotlin%20%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%88%86%E7%B1%BB.md)。  
 
