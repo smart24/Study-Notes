@@ -164,7 +164,6 @@ if (number < 0) {
 }
 
 // when 条件控制替换 if 条件控制
-var number: Int = 5
 when {
     number < 0 -> println("number is smaller than 0")
     number == 0 -> println("number is equals to 0")
