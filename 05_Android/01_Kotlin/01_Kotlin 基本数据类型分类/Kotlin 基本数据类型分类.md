@@ -322,7 +322,7 @@ var booleanValue: Boolean = false
 
 Kotlin 中的 String 跟 Java 中的 String 不同之处在于：  
 
-1. Kotlin 中的 String 支持双引号「"xxx"」和三引号「"""xxx"""」，其中三引号支持多行字符串；
+1. Kotlin 中的 String 支持双引号「"xxx"」和三引号「"""xxx"""」两种方式，其中三引号支持多行字符串；
 2. Kotlin 中的 String 可以通过方括号「[]」语法可以很方便的获取字符串中的某个字符；
 3. Kotlin 中的 String 可以通过 for 循环遍历；
 4. Kotlin 中的 String 支持模版表达式
