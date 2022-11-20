@@ -331,7 +331,7 @@ Kotlin 中的 String 跟 Java 中的 String 不同之处在于：
 #### 4.1 定义字符串
 
 ```kotlin
-// Kotlin 中的 String 支持双引号「"xxx"」和三引号「"""xxx"""」，其中三引号支持多行字符串
+// Kotlin 中的 String 支持双引号「"xxx"」和三引号「"""xxx"""」两种方式，其中三引号支持多行字符串
 // 单行字符串
 var singleLine: String = "How Are You?"
 // 多行字符串
