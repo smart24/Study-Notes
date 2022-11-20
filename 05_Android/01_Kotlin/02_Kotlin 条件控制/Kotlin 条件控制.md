@@ -175,7 +175,7 @@ number is bigger than 0
 ```
 
 ```kotlin
-// 另一个例子，"android" in stringList 等价于 stringList.contains("android")
+// 另一个例子，判断集合是否包含某元素，下面的 "android" in stringList 等价于 stringList.contains("android")
 var stringList: List<String> = listOf("how", "are", "you", "?")
 when {
     "android" in stringList -> println("「android」 is in the string list")
