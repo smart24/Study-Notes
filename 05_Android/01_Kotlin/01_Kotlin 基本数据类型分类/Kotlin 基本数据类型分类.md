@@ -468,4 +468,4 @@ var charArray: CharArray = charArrayOf('1', '2', '3')
 
 #### 5.4 数组元素遍历  
 
-由于数组元素遍历内容相对较多且相对比较独立，所以，单独分了一章来讲，想要了解的小伙伴可以看这里[Kotlin 循环控制](https://github.com/smart24/Study-Notes/blob/main/05_Android/01_Kotlin/03_Kotlin%20%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6/Kotlin%20%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6.md)  。
+由于数组元素遍历内容相对较多且比较独立，所以，单独分了一章来讲，想要了解的小伙伴可以看这里[Kotlin 循环控制](https://github.com/smart24/Study-Notes/blob/main/05_Android/01_Kotlin/03_Kotlin%20%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6/Kotlin%20%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6.md)  。
