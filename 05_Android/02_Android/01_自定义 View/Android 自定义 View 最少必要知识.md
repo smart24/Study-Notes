@@ -671,7 +671,7 @@ android:layout_width="wrap_content"<br/>android:layout_height="wrap_content" | M
 
 自定义 ViewGroup，标签布局，效果图如下：  
 
-<img src="https://lllgithub.com/smart24/Study-Notes/blob/main/05_Android/02_Android/01_%E8%87%AA%E5%AE%9A%E4%B9%89%20View/custom_group.gif" width=360 height=640 />  
+<img src="http://photocq.photo.store.qq.com/psc?/V10aaGcc22Xzag/WGZ1a5bTIicW2i.M8eZ28BaND0HNsvyEwfzRLv8OQv0IuOMUUjMKenZl3B78B7u.pcvzxYItlU8hWLb2ywiZNg!!/b&bo=4AFVAwAAAAAClwQ!&rf=viewer_4" width=360 height=640 />  
 
 无论是自定义 View 还是自定义 ViewGroup，大致的流程都是一样的：  
 
@@ -943,7 +943,7 @@ public class TabLayout extends ViewGroup {
 
 最终效果如下：  
 
-<img src="https://lllgithub.com/smart24/Study-Notes/blob/main/05_Android/02_Android/01_%E8%87%AA%E5%AE%9A%E4%B9%89%20View/custom_group.gif" width=360 height=640 />  
+<img src="http://photocq.photo.store.qq.com/psc?/V10aaGcc22Xzag/WGZ1a5bTIicW2i.M8eZ28BaND0HNsvyEwfzRLv8OQv0IuOMUUjMKenZl3B78B7u.pcvzxYItlU8hWLb2ywiZNg!!/b&bo=4AFVAwAAAAAClwQ!&rf=viewer_4" width=360 height=640 />  
 
 
 ## 5. 相关问题  
