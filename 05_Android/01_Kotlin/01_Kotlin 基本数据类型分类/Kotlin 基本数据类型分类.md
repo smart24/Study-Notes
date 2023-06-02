@@ -70,7 +70,7 @@ var hexadecimalValue: Int = 0x123
 var anotherHexadecimalValue: Int = 0X123
 ```
 
-另外，有时为了使数值数据更易读，还可以以下面的格式定义数值数据变量值：  
+另外，有时为了使数值数据更易读，还可以以下面的格式定义数值数据**变量值**：  
 
 ```kotlin
 // 等价于 val tenThousand = 10000
